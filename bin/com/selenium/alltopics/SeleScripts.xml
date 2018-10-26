@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.selenium.alltopics.WebTableConcept"/>
+      <class name="com.selenium.alltopics.DatePickerTables"/>
+      <class name="com.selenium.alltopics.ReadExcelData"/> 
+      <class name="com.selenium.alltopics.AutoCompleteSugges"/> 
+      <class name="com.selenium.alltopics.HandlingFrames"/>  
+      <class name="com.selenium.alltopics.AnnotationsOrder"/>
+      <class name="com.selenium.alltopics.WriteToExceljxl"/>
+      <class name="com.selenium.alltopics.DropDown"/>
+      <class name="com.selenium.alltopics.HandlingAlerts"/>
+      <class name="com.selenium.alltopics.HandlingFrames2"/>
+      <class name="com.selenium.alltopics.ConfirmationDemo"/>
+      <class name="com.selenium.alltopics.Mwebtable"/>
+      <class name="com.selenium.alltopics.MultiDropdown"/>
+      <class name="com.selenium.alltopics.ClickAndHold"/>
+      <class name="com.selenium.alltopics.HandlingWindows"/>
+      <class name="com.selenium.alltopics.HandlingMouseEvents"/>
+      <class name="com.selenium.alltopics.JxlRead"/>
+      <class name="com.selenium.alltopics.AutoSuggession"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -5,5 +5,14 @@
 	<classpathentry kind="lib" path="F:/selenium/Lib/client-combined-3.13.0.jar"/>
 	<classpathentry kind="lib" path="F:/selenium/Lib/selenium-server-standalone-3.13.0.jar"/>
 	<classpathentry kind="lib" path="F:/selenium/Lib/testng-6.11 (1).jar"/>
+	<classpathentry kind="lib" path="F:/selenium/Lib/jxl-2.6.12 (1).jar"/>
+	<classpathentry kind="lib" path="F:/selenium/Lib/poi-3.17/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/selenium/Lib/poi-3.17/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/selenium/Lib/poi-3.17/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/selenium/Lib/poi-3.17/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/selenium/Lib/poi-3.17/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/selenium/Lib/poi-3.17/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/selenium/Lib/commons-io-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Gowthami/Downloads/ojdbc7 (1).jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
